@@ -6,11 +6,16 @@ Prueba la aplicacion (apk): https://www.mediafire.com/file/4c5sli8smc6v7fj/BLOOM
 Documentacion: 
 
 Desarrolladores: 
-Jheiner Daniel Narvaez Lopez
+Jheiner Daniel Narvaez Lopez 
+
 Juan Pablo Ortiz Ceron 
+
 Jefferson Johan Córdoba Pinchao
+
 Martha Camila Carlosama Gelpud
+
 Gabriela Navarro
+
 Sandra Marlen Vallejo Chamorro
 
 Contrubuidores: 
