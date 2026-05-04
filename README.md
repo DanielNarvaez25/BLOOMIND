@@ -19,9 +19,9 @@ Gabriela Navarro
 Sandra Marlen Vallejo Chamorro
 
 Contrubuidores: 
-Jairo Perez
-Oscar Realpe
-Jimmy Alpala
-Jaider Torrez
+Jairo Perez, 
+Oscar Realpe, 
+Jimmy Alpala, 
+Jaider Torrez, 
 
 
