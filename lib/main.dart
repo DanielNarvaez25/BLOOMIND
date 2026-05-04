@@ -70,6 +70,7 @@ class BloomindApp extends StatelessWidget {
 
   const BloomindApp({super.key, required this.hasSeenOnboarding});
 
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
