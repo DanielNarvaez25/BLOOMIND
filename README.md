@@ -19,7 +19,7 @@ Martha Camila Carlosama Gelpud
 
 Gabriela Navarro
 
-Sandra Marlen Vallejo Chamorro
+Sandra Marleni Vallejo Chamorro
 
 Contrubuidores: 
 Jairo Perez, 
