@@ -5,7 +5,7 @@ Prueba la aplicacion (apk): https://www.mediafire.com/file/4c5sli8smc6v7fj/BLOOM
 
 Documentacion: https://docs.google.com/document/d/15M2CbvV0VGZAjVZFnDFAun7QwMB7MCHi/edit?usp=sharing&ouid=100043427861719650316&rtpof=true&sd=true
 
-Documentacion: 
+Referencias: https://docs.google.com/document/d/1qarkVQ7q-ymBMHgIrO5H7N-tCR27Piw5/edit?usp=sharing&ouid=100043427861719650316&rtpof=true&sd=true
 
 Desarrolladores: 
 
@@ -19,9 +19,9 @@ Martha Camila Carlosama Gelpud
 
 Gabriela Navarro
 
+Agradecimientos: 
 Sandra Marleni Vallejo Chamorro
 
-Contrubuidores: 
 Jairo Perez, 
 Oscar Realpe, 
 Jimmy Alpala, 
