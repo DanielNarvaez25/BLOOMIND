@@ -27,4 +27,5 @@ Oscar Realpe,
 Jimmy Alpala, 
 Jaider Torrez, 
 
-
+All rights reserved.
+Unauthorized copying, distribution or modification is prohibited.
